@@ -2,6 +2,7 @@ h1 {
     background-color: red;
     color: #fff;
     font-weight: bold;
+    text-trasform:uppercase;
 }
 
 h2 {
